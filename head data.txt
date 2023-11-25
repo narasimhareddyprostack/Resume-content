@@ -1,0 +1,15 @@
+DISCRIPTION:
+Heeddata FinOps Platform is made to manage multi-cloud environment with a single dashboard that
+encourages accountability across teams, defines budgets, maximizes resource utilization, identifies
+opportunities of automation, and more. Explore our SecOps & CloudOps solutions too.
+HeedData - cloud health products, providing cloud analytics for clients. Using Heed Data products, we
+can connect multi-clouds info, and we can manage form single dashboard.
+
+
+ROLE & RESPONSIBILITY:
+1. Designed UI Screens according client Requirements.
+2. Developed complete User module functionality using React.
+3. UI Screens designed using MUI, HTML5, CSS3, and Bootstrap with React.
+4. Implemented Routing using react-router-dom v5.
+5. Deployed into AWS.
+TECHNOLOGIES USED: HTML5, CSS3, React JS & MATERIAL UI.
